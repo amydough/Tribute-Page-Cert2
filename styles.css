@@ -40,7 +40,7 @@ body {
 
 #image {
     width: 35%;
-    max-width: 500px;
+    max-width: 100%;
     min-width: 200px;
     height: auto;
     margin: auto;
@@ -52,3 +52,8 @@ body {
     min-width: 400px;
     margin: 0 auto;
 }
+
+/* You should have an a element with an id of tribute-link.
+Your #tribute-link should have an href attribute and value.
+Failed:Your #tribute-link should have a target attribute set to _blank.
+Your #image should have a max-width of 100%. */
